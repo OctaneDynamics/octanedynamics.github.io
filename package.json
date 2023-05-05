@@ -1,7 +1,7 @@
 {
-  "name": "My-Landing-Page",
+  "name": "Octane Dynamics Landing Page",
   "version": "0.1.1",
-  "homepage": "https://singhkshitij.github.io",
+  "homepage": "https://octanedynamics.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
